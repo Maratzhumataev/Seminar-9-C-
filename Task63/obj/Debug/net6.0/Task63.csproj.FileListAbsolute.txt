@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/bin/Debug/net6.0/Task63
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/bin/Debug/net6.0/Task63.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/bin/Debug/net6.0/Task63.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/bin/Debug/net6.0/Task63.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/bin/Debug/net6.0/Task63.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/refint/Task63.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/Task63.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/Debug/net6.0/ref/Task63.dll
