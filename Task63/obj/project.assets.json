@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/maratzhumataev/.nuget/packages/": {}
+    "/Users/ZhumataevMD/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/Task63.csproj",
+      "projectUniqueName": "/Users/ZhumataevMD/Dropbox/Мой Mac (MacBook-Pro-MARAT.local)/Documents/Семинар С#/Seminar-9-C-/Task63/Task63.csproj",
       "projectName": "Task63",
-      "projectPath": "/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/Task63.csproj",
-      "packagesPath": "/Users/maratzhumataev/.nuget/packages/",
-      "outputPath": "/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 9 С#/Task63/obj/",
+      "projectPath": "/Users/ZhumataevMD/Dropbox/Мой Mac (MacBook-Pro-MARAT.local)/Documents/Семинар С#/Seminar-9-C-/Task63/Task63.csproj",
+      "packagesPath": "/Users/ZhumataevMD/.nuget/packages/",
+      "outputPath": "/Users/ZhumataevMD/Dropbox/Мой Mac (MacBook-Pro-MARAT.local)/Documents/Семинар С#/Seminar-9-C-/Task63/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/maratzhumataev/.nuget/NuGet/NuGet.Config"
+        "/Users/ZhumataevMD/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
       }
     }
   }
